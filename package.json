@@ -1,0 +1,17 @@
+{
+  "name": "rulu-tz",
+  "version": "1.0.0",
+  "description": "Микросервис для управления пользователями (CRUD) на Node.js + Express + MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0"
+  }
+}
